@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 setup(
     name='telegram-log-sender',
     version='0.1.0',
-    author='ChatGPT and Denis Ustinov',
+    author='Denis Ustinov',
     author_email='revers-06-checkup@icloud.com',
     description='A Python package for sending logs to a Telegram bot with filtering capabilities.',
     long_description=open('README.md').read(),
