@@ -9,7 +9,7 @@
 1. Склонируйте репозиторий:
 
 ```bash
-git clone https://github.com/DenisUstinov/telegram_log_sender.git
+git clone https://github.com/DenisUstinov/telegram-log-sender.git
 ```
 
 2. Перейдите в директорию проекта:
@@ -24,7 +24,7 @@ pip install
 
 Или, если вы хотите установить через pip в другом проекте:
 ```bash
-pip install git+https://github.com/DenisUstinov/telegram_log_sender.git
+pip install git+https://github.com/DenisUstinov/telegram-log-sender.git
 ```
 ## Использование
 
